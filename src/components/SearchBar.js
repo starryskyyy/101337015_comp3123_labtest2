@@ -1,4 +1,4 @@
-import React, { useState} from 'react'
+import React from 'react'
 import { UilSearch} from '@iconscout/react-unicons'
 
 function SearchBar(props) {

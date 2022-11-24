@@ -51,8 +51,6 @@ export default function WeatherApp() {
         })
     }
 
-    console.log(weather)
-
     function handleForecast(res) {
         setForecast(res.data.list);
     }

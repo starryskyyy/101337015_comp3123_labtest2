@@ -1,5 +1,5 @@
 import React from 'react'
-import { UilArrowUp, UilArrowDown, UilTemperature, UilTear, UilWind, UilDashboard, UilEye} from '@iconscout/react-unicons'
+import { UilArrowUp, UilArrowDown, UilTemperature, UilTear, UilWind, UilDashboard} from '@iconscout/react-unicons'
 
 function Details(props) {
 

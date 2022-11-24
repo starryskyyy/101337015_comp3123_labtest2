@@ -11,7 +11,7 @@ function SearchBar(props) {
          onChange={props.onChange}
           type="text"
           placeholder="city name..."
-          className=" opacity-90 rounded-md text-xl font-light p-2 w-full shadow-xl focus:outline-none capitalize placeholder:lowercase" />
+          className=" opacity-80 rounded-md text-xl font-light p-2 w-full shadow-xl focus:outline-none capitalize placeholder:lowercase" />
         <UilSearch
           size={25}
           className="text-white cursor-pointer transition ease-out hover:scale-125"

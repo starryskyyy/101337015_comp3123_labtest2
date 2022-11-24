@@ -87,7 +87,7 @@ export default function WeatherApp() {
 
         <>
             <div className="mx-auto max-w-screen-xl rounded-2xl m-4 py-5 px-32 
-bg-lightgray-500 bg-opacity-25 h-fit shadow-lg shadow-gray-200">
+bg-gray-500 bg-opacity-10 h-fit shadow-lg shadow-gray-200">
                 <SearchBar onChange={handleChange} onClick={handleClick} />
                 <Location city={weather.city_name} date={weather.date} />
                 <Details data={weather} />

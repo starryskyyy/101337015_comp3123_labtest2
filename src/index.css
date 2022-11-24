@@ -10,7 +10,7 @@
     font-family: 'Work Sans', sans-serif;
   }
   body{
-    background: rgb(200,172,215);
-    background: linear-gradient(90deg, rgba(200,172,215,1) 17%, rgba(128,139,255,1) 100%);
+    background: rgb(231,194,251);
+    background: linear-gradient(90deg, rgba(231,194,251,1) 32%, rgba(128,139,255,1) 80%);
   }
 }

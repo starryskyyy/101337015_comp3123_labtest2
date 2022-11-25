@@ -4,6 +4,11 @@ Simple weather app that displays current temperature, weather description and we
 
 The app lets user to view weather for the next 5 days 
 
+
+Demo: https://earnest-gaufre-6d89fe.netlify.app/
+
+![gif](https://gifyu.com/image/ShdXJ)
+
 # Libraries and Technologies  :ringed_planet:
 
 - https://openweathermap.org/ - used to get global weather data via API

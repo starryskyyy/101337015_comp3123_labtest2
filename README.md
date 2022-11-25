@@ -7,7 +7,7 @@ The app lets user to view weather for the next 5 days
 
 Demo: https://earnest-gaufre-6d89fe.netlify.app/
 
-![gif](https://gifyu.com/image/ShdXJ)
+![gif demo](https://cdn.discordapp.com/attachments/315879205818597377/1045494021209989150/ezgif.com-gif-maker.gif)
 
 # Libraries and Technologies  :ringed_planet:
 
